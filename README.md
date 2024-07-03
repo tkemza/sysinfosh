@@ -43,7 +43,7 @@
 
 ~ Here is the preview of the script:
 
-![sysinfo](sysinfo.png)
+![sysinfo](sysinfosh1.png)
 
 # LICENSE
 
